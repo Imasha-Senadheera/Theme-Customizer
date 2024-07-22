@@ -71,9 +71,3 @@ The project structure is as follows:
     ├── package-lock.json
     ├── package.json
     └── README.md
-
-
-
-
-
-
