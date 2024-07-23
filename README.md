@@ -1,4 +1,4 @@
-# Theme Customizer
+# Theme Customizer 🎨
 
 Welcome to the Theme Customizer project! This React application allows users to customize the theme of a text block by changing the background color, text color, and font size. Users can also view a history of their color customizations.
 
